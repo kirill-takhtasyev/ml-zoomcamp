@@ -19,3 +19,4 @@ This is a binary classification problem.
 - `environment.yml` - environment file for creating a new Conda virtual environment with the packages listed in `requirements.txt`;
 -
 # Setting up the environment
+For managing the environments i used Conda - the open-source package management system, which can be installed on Windows, macOS and Linux. Here is the [Free Download Link](https://www.anaconda.com/download).
