@@ -8,3 +8,6 @@ According to the World Health Organization (WHO) and various other health agenci
 The model is constructed using the [dataset from Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data), which was created by [fedesoriano](https://www.kaggle.com/fedesoriano). It is designed for predicting the probability of stroke based on the provided attribute information.
 
 This is a binary classification problem.
+# Project files
+- `README.md` - file with project description and instructions;
+- 
