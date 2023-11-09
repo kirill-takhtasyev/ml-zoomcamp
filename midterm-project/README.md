@@ -15,3 +15,7 @@ This is a binary classification problem.
 - `train.py` - separate script, which contains the data preparation, training process of the final model and code for saving it to file;
 - `model.bin` - file containing the final model;
 - `predict.py` - Flask app with final function used for creating the web service;
+- `predict_test.py` - example script created for checking the model, running on a server, and getting the response;
+- `environment.yml` - environment file for creating a new Conda virtual environment with the packages listed in `requirements.txt`;
+-
+# Setting up the environment
