@@ -10,4 +10,5 @@ The model is constructed using the [dataset from Kaggle](https://www.kaggle.com/
 This is a binary classification problem.
 # Project files
 - `README.md` - file with project description and instructions;
+- `healthcare-dataset-stroke-data.csv` - the CSV file containing the Stroke Prediction Dataset. Was downloaded from Kaggle and provided by [fedesoriano](https://www.kaggle.com/fedesoriano);
 - 
