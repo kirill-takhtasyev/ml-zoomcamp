@@ -11,4 +11,7 @@ This is a binary classification problem.
 # Project files
 - `README.md` - file with project description and instructions;
 - `healthcare-dataset-stroke-data.csv` - the CSV file containing the Stroke Prediction Dataset. Was downloaded from Kaggle and provided by [fedesoriano](https://www.kaggle.com/fedesoriano);
-- 
+- `notebook.ipynb` - file in Jupyter Notebook format containing Exploratory Data Analysis and training process of different models;
+- `train.py` - separate script, which contains the data preparation, training process of the final model and code for saving it to file;
+- `model.bin` - file containing the final model;
+- `predict.py` - Flask app with final function used for creating the web service;
